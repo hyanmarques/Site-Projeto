@@ -107,7 +107,7 @@ main h1{
 
 main h2{
     background-image: linear-gradient(to right, var(--cor4), transparent);
-    color: var(--cor1);
+    color: var(--cor0);
     font-family: var(--font-android);
     font-size: 1.2em;
     font-weight: normal;
