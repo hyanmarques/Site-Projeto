@@ -54,9 +54,9 @@ header > p{
     font-size: 1.2em;
     padding-right: 10px;
     padding-left: 10px;
+    padding-bottom: 50px;
     color: white;
     max-width: 600px;
-    margin-bottom: 30px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.24);
 }
@@ -101,7 +101,6 @@ main{
 main h1{
     color: var(--cor4);
     font-family: var(--font-android);
-    padding-left: 10px;
     text-indent: 7px;
     font-weight: normal;
 }
@@ -205,7 +204,7 @@ aside p {
 
 
 ul{
-    list-style: none;
+    list-style: disc;
     columns: 2;
     margin-left: 20px;
 }
